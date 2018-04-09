@@ -1,6 +1,7 @@
 package com.cecehedrick.module2;
 
 import com.cecehedrick.module2.utilities.StupidName;
+import AGitSubmodule.submodule.superCoolPkg.Yolo;
 
 
 public class App 
@@ -13,6 +14,9 @@ public class App
         StupidName cool = new StupidName();
         int num = cool.StupidAdd();
         System.out.println(myInt + " "+ num);
+
+        String msg = "I using a submodule";
+        Yolo.cool(msg);
 
     }
 
