@@ -2,10 +2,7 @@ package com.cecehedrick.module2;
 
 import com.cecehedrick.module2.utilities.StupidName;
 
-/**
- * Hello world!
- *
- */
+
 public class App 
 {
     public static void main( String[] args )
