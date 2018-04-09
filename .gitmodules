@@ -1,0 +1,3 @@
+[submodule "src/main/java/AGitSubmodule"]
+	path = src/main/java/AGitSubmodule
+	url = https://github.com/piqueen314/AGitSubmodule.git
